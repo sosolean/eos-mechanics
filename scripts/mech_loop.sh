@@ -1,6 +1,6 @@
 #!/bin/sh
 #
-# EOS Mechanics loop script. Loop and run the actions with a random sleep.
+# ENO Mechanics loop script. Loop and run the actions with a random sleep.
 #
 
 SCRIPT_DIR="/path/to/mech/scripts"
